@@ -7,7 +7,16 @@
 
 ## Description
 
-This gem is a minimal CLI example that reads a file containing one numeric value per line, and produces a new, shorter file. The output summarizes the original data, according to different sampling strategies, and number of samples required. 
+This gem is a minimal CLI example that reads a file containing one numeric value per line, such as:
+
+```
+1.0
+2.0
+3.0
+4
+```
+
+and produces a new, shorter file. The output summarizes the original data, according to different sampling strategies, and number of samples required. 
 
 
 ```bash
