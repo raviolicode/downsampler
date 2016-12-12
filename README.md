@@ -1,4 +1,4 @@
-# (down)Sampler for CSV files [![Build Status](https://travis-ci.org/raviolicode/downsampler.svg?branch=master)](https://travis-ci.org/raviolicode/downsampler) | [![Coverage Status](https://coveralls.io/repos/github/raviolicode/downsampler/badge.svg?branch=master)](https://coveralls.io/github/raviolicode/downsampler?branch=master)
+# (down)Sampler for CSV files [![Build Status](https://travis-ci.org/raviolicode/downsampler.svg?branch=master)](https://travis-ci.org/raviolicode/downsampler) | [![Coverage Status](https://coveralls.io/repos/github/raviolicode/downsampler/badge.svg?branch=master)](https://coveralls.io/github/raviolicode/downsampler?branch=master) | [![Code Climate](https://codeclimate.com/github/raviolicode/downsampler/badges/gpa.svg)](https://codeclimate.com/github/raviolicode/downsampler)
 
 ![Downsampling kittens](http://cs.brown.edu/courses/cs143/proj1/cat_hybrid_image_scales.jpg)
 
